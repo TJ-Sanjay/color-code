@@ -1,0 +1,14 @@
+[theme.light]
+primaryColor = "#2f6f6b"
+backgroundColor = "#fafaf9"
+secondaryBackgroundColor = "#f2f1ee"
+textColor = "#1c1917"
+
+[theme.dark]
+primaryColor = "#5fb3ad"
+backgroundColor = "#14171a"
+secondaryBackgroundColor = "#1e2327"
+textColor = "#ece9e4"
+
+[browser]
+gatherUsageStats = false
